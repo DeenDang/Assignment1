@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interest in IT</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+        <ul class = "topnav">
+            <li><a href="index.html">Home</a></li>
+            <li><a class = "active" href="IIIT1.html">Interest in IT</a></li>
+            <li><a href="IJ2.html">Ideal Job</a></li>
+            <li><a href="PP3.html">Personality Profile</a></li>
+            <li><a href="PI4.html">Project Idea</a></li>
+        </ul>
+
+        <h1>Interest In IT</h1>
+        
+        <h2>>---What is your interest in IT? When did your interest in IT start?---<</h2>
+
+        <p>
+        I’m really interest in IT with three broad topics, they’re game development, cybersecurity and software development. 
+        When I was about 5, 6 years old, it was the first time I’ve ever seen an online game, one of my cousins played in front me 
+        and even taught me how to play it. Later in that year, I received the first Nintendo DS, it brought me a deeper feel for video games.
+         Time comes to high school, I got interested in coding, having fun in creating basic software in Java. The funning thing was, 
+         I hated the English class, thus that was the reason I want to get into software development because it’s easier than English. 
+         In nowadays, my thoughts are changing towards cybersecurity, it’s not the game or software development aren’t fun anymore, 
+         is because I do think in the current digital info era, cybersecurity is the most important topic in this enormous industry, 
+         it’s a tool that could protect myself and other people from many invisible harms. 
+        </p>
+
+        <br>
+        <h2>>---Was there a particular event or person that sparked your interest?---<</h2>
+
+        <p>
+        When I was a kid, my cousin showed me an online video game for the first time in my life, and he taught me a lot in playing games. 
+        Then, one of my uncles taught me how to use PC as a tool to find useful stuff and surf on the internet (very old word). And also, 
+        he taught me some basic components of the PC system, I still could remember that a bunch of wires connecting to some small circuits 
+        and stuff that I was know at that time, it had very complex looking inside the case. 
+        </p>
+
+        <br>
+        <h2>>---Why did you choose to come RMIT?---<</h2>
+
+        <p>
+        I was hearing about RMIT is having some good IT programs from high school news and some ranking lists from the internet, 
+        and RMIT is collaborating with the IT industry and companies, which means easy to find a job after graduate :). 
+        </p>
+
+        <br>
+        <h2>>---What do you expect to learn during your studies?---<</h2>
+
+        <p style="text-align:center;">
+            o	Fundamentals of IT industry <br>
+            o	Coding skills (Any coding language) <br>
+            o	IT awareness <br>
+            o	Physical PC components <br>
+            o	Networking <br>
+            o	Cybersecurity
+
+        </p>
+        <br><br>
+        <footer>
+            &copy;2022 : Deen Dang s3859876
+    </footer>
+</body>
+
+</html>
